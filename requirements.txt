@@ -1,0 +1,21 @@
+# Core Data & ML Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter Notebooks
+jupyter
+
+#  For model interpretability or extended visualization
+plotly
+xgboost
+lightgbm
+
+# For deep learning projects 
+tensorflow
+keras
+
+
+markdown
