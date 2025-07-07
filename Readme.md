@@ -16,9 +16,7 @@ Machine_learning_projects/
 │ └── ...
 └── ...
 
-ruby
-Copy
-Edit
+
 
 ---
 
